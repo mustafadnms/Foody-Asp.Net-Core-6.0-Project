@@ -1,0 +1,15 @@
+D:\Foody\Foody.DataAccessLayer\bin\Debug\net6.0\Foody.DataAccessLayer.deps.json
+D:\Foody\Foody.DataAccessLayer\bin\Debug\net6.0\Foody.DataAccessLayer.dll
+D:\Foody\Foody.DataAccessLayer\bin\Debug\net6.0\Foody.DataAccessLayer.pdb
+D:\Foody\Foody.DataAccessLayer\bin\Debug\net6.0\Foody.EntityLayer.dll
+D:\Foody\Foody.DataAccessLayer\bin\Debug\net6.0\Foody.EntityLayer.pdb
+D:\Foody\Foody.DataAccessLayer\obj\Debug\net6.0\Foody.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Foody\Foody.DataAccessLayer\obj\Debug\net6.0\Foody.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Foody\Foody.DataAccessLayer\obj\Debug\net6.0\Foody.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Foody\Foody.DataAccessLayer\obj\Debug\net6.0\Foody.DataAccessLayer.AssemblyInfo.cs
+D:\Foody\Foody.DataAccessLayer\obj\Debug\net6.0\Foody.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Foody\Foody.DataAccessLayer\obj\Debug\net6.0\Foody.Da.F8FE1C5F.Up2Date
+D:\Foody\Foody.DataAccessLayer\obj\Debug\net6.0\Foody.DataAccessLayer.dll
+D:\Foody\Foody.DataAccessLayer\obj\Debug\net6.0\refint\Foody.DataAccessLayer.dll
+D:\Foody\Foody.DataAccessLayer\obj\Debug\net6.0\Foody.DataAccessLayer.pdb
+D:\Foody\Foody.DataAccessLayer\obj\Debug\net6.0\ref\Foody.DataAccessLayer.dll

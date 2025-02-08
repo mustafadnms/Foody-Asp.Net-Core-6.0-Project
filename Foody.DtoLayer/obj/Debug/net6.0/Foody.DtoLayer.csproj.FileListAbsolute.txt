@@ -1,0 +1,11 @@
+D:\Foody\Foody.DtoLayer\bin\Debug\net6.0\Foody.DtoLayer.deps.json
+D:\Foody\Foody.DtoLayer\bin\Debug\net6.0\Foody.DtoLayer.dll
+D:\Foody\Foody.DtoLayer\bin\Debug\net6.0\Foody.DtoLayer.pdb
+D:\Foody\Foody.DtoLayer\obj\Debug\net6.0\Foody.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Foody\Foody.DtoLayer\obj\Debug\net6.0\Foody.DtoLayer.AssemblyInfoInputs.cache
+D:\Foody\Foody.DtoLayer\obj\Debug\net6.0\Foody.DtoLayer.AssemblyInfo.cs
+D:\Foody\Foody.DtoLayer\obj\Debug\net6.0\Foody.DtoLayer.csproj.CoreCompileInputs.cache
+D:\Foody\Foody.DtoLayer\obj\Debug\net6.0\Foody.DtoLayer.dll
+D:\Foody\Foody.DtoLayer\obj\Debug\net6.0\refint\Foody.DtoLayer.dll
+D:\Foody\Foody.DtoLayer\obj\Debug\net6.0\Foody.DtoLayer.pdb
+D:\Foody\Foody.DtoLayer\obj\Debug\net6.0\ref\Foody.DtoLayer.dll

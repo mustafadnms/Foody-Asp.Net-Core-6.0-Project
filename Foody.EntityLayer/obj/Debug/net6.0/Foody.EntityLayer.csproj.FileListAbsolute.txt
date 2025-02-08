@@ -1,0 +1,14 @@
+D:\Foody\Foody.EntityLayer\bin\Debug\net6.0\Foody.EntityLayer.deps.json
+D:\Foody\Foody.EntityLayer\bin\Debug\net6.0\Foody.EntityLayer.runtimeconfig.json
+D:\Foody\Foody.EntityLayer\bin\Debug\net6.0\Foody.EntityLayer.dll
+D:\Foody\Foody.EntityLayer\bin\Debug\net6.0\Foody.EntityLayer.pdb
+D:\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.csproj.AssemblyReference.cache
+D:\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.AssemblyInfoInputs.cache
+D:\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.AssemblyInfo.cs
+D:\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.csproj.CoreCompileInputs.cache
+D:\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.dll
+D:\Foody\Foody.EntityLayer\obj\Debug\net6.0\refint\Foody.EntityLayer.dll
+D:\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.pdb
+D:\Foody\Foody.EntityLayer\obj\Debug\net6.0\Foody.EntityLayer.genruntimeconfig.cache
+D:\Foody\Foody.EntityLayer\obj\Debug\net6.0\ref\Foody.EntityLayer.dll
